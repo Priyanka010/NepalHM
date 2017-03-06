@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/fringy_green</color>
+    <color name="colorPrimaryDark">@color/cutty_green</color>
+    <color name="colorAccent">#fff</color>
+
+    <color name="tab_background_unselected">#eee</color>
+    <color name="tab_background_selected">#4D13C9</color>
+    <color name="tabTextInactive">#000</color>
+
+    <color name="fringy_green">#bde6be</color> <!-- Use with white text -->
+    <color name="cutty_green">#2e8252</color> <!-- Use with white text -->
+    <color name="teal_700">#00796b</color> <!-- Use with white text -->
+
+</resources>
